@@ -15,6 +15,7 @@ require (
 	github.com/rs/xid v1.2.1
 	github.com/sdomino/scribble v0.0.0-20191024200645-4116320640ba
 	github.com/skip2/go-qrcode v0.0.0-20191027152451-9434209cb086
-	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200324154536-ceff61240acf
+	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210427135350-f9ad6d392236
+	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0
 )
